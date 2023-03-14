@@ -1,0 +1,13 @@
+[package]
+name = "df_optimizer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+datafusion = "18.0.0"
+datafusion-common = "18.0.0"
+datafusion-expr = "18.0.0"
+datafusion-optimizer = "18.0.0"
+datafusion-sql = "18.0.0"
